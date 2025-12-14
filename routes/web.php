@@ -1,3 +1,4 @@
+# Google OAuth enabled
 <?php
 
 use App\Http\Controllers\ProfileController;
