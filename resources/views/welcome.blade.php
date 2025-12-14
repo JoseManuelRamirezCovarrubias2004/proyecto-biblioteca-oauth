@@ -222,6 +222,7 @@
                         @if (Route::has('login'))
                             <a class="text-white/70 hover:text-white transition" href="{{ route('login') }}">Login</a>
                         @endif
+
                         @if (Route::has('register'))
                             <a class="text-white/70 hover:text-white transition" href="{{ route('register') }}">Registro</a>
                         @endif
