@@ -61,8 +61,4 @@ La aplicación cuenta con autenticación tradicional (usuario y contraseña) as�
 
 ---
 
-## ⚙️ Instalación y ejecución
 
-1. Clonar el repositorio:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
